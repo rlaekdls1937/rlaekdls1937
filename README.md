@@ -2,4 +2,4 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
-![rlaekdls's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaekdls1937&show_icons=true&theme=radical)
+![rlaekdls's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaekdls1937&show_icons=true&theme=rose_pine)
